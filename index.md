@@ -1,19 +1,21 @@
-## Welcome to GitHub Pages
+## Welcome to hct or hacking tools
 
-You can use the [editor on GitHub](https://github.com/hackerZarmy/hct/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+You can hacking with this script
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Hackerz army is de best army hackers
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
+```learn to install
 
-# Header 1
-## Header 2
-### Header 3
+
+# apt update
+## apt upgrade
+### pkg install git
+#### pkg install python -y
+##### git clone https://github.com/hackerZarmy/hct
+###### cd hct
+####### python main.py
 
 - Bulleted
 - List
